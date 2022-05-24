@@ -1,0 +1,44 @@
+<html>
+<title>LINKS</title>
+<BODY>
+<h1><font color="red"><center>LINKS</font></center></h1><h3>
+There are two types of links present in the html there are 
+<font color="green"><li>Text links</li>
+<li>Image links</li></h3>
+</font><hr><hr>
+<h1><font color="red"><center> Text Links</font></center></h1>
+<h3>
+In the text links we use text as links; here we use anchor tag(a) it was a container tag after we adding the link 
+to the text than the color of the text changes to blue and underline added to the text, The syntax of the Text link was
+((a href="url")HERE TEXT(/a))</h3>
+<h2>
+<font color="purple">
+EXAMPLE:
+</font>
+</h2>
+<h3>here i am adding my github url to the text</h3>
+<h2><center><a href="https://github.com/bapatlasravan">:-BAPATLA SRAVAN-:</a></h2>
+<h2><font color="green"><u>NOTE:</font></u></h2>
+<h3>
+Here after we click the link on the text than the reload occurs in the same page if we want to open the link in the new page 
+then we have to follow the given syntax ((a href="url" target="blank")HERE TEXT(/a))
+</h3>
+<h2><center><a href="https://github.com/bapatlasravan" target="blank">:-BAPATLA SRAVAN-:</a></h2><hr><hr>
+
+<h1><font color="red"><center> Image Links</font></center></h1>
+<h3>
+In the image links we use image as links; here also we use anchor tag(a) it was a container tag, images are different in shape if we want the images all
+are in same size we should use width/hiht attribute in image The syntax of the Text link 
+was ((a href="url")(img scr="image scr")HERE TEXT(/a))</h3>
+<h2>
+<font color="purple">
+EXAMPLE:
+</font>
+</h2>
+<h3>here i am adding the url to the social media iamges</h3>
+<a href="https://github.com/bapatlasravan" target="blank"><img src="http://surl.li/cawjp" width="100" height="100"></a>
+<a href="http://surl.li/cawkk" target="blank"><img src="http://surl.li/cawke" width="100" height="100"></a>
+<a href="http://surl.li/cawkm" target="blank"><img src="http://surl.li/cawko" width="100" height="100"></a>
+
+</BODY>
+</html>
